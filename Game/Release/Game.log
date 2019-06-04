@@ -1,0 +1,17 @@
+﻿  Cat.cpp
+  Enemy.cpp
+  Game.cpp
+Game.cpp(9): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Goblin.cpp
+  Inventory.cpp
+  Main.cpp
+  Map.cpp
+  Player.cpp
+  Potion.cpp
+  Thief.cpp
+  Warrior.cpp
+  Wizard.cpp
+  Generating code
+  All 192 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Game.vcxproj -> E:\code\Year 2\Game\Release\Game.exe
